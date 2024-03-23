@@ -1,0 +1,10 @@
+console.log("Hello, World!");
+console.log("Derek Ward");
+console.log("1992");
+console.log(1992);
+console.log("Derek Ward",(1992));
+console.log("Derek", "Ward", "1992",(1992)); 
+console.log("Derek");
+console.log("Ward");
+console.log("1992");
+console.log("Derek "+"Ward "+"1992 ");
